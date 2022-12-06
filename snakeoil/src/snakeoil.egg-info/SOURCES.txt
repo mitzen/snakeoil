@@ -1,0 +1,6 @@
+setup.py
+snakeoil/src/snakeoil.egg-info/PKG-INFO
+snakeoil/src/snakeoil.egg-info/SOURCES.txt
+snakeoil/src/snakeoil.egg-info/dependency_links.txt
+snakeoil/src/snakeoil.egg-info/top_level.txt
+snakeoil/src/snakeoil.egg-info/SOURCES.txt
