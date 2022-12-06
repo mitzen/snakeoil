@@ -6,5 +6,7 @@ pip install twine
 # build your python codebase
 python setup.py sdist bdist_wheel
 
+# publist to testpypi
+twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 # publish to pypi
-python -m twine upload dist/*
+twine upload dist/*
