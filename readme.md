@@ -1,3 +1,5 @@
+Blog
+https://wangonya.com/blog/publishing-package-on-test-pypi/
 
 # install dependencies
 pip install pipdeptree
